@@ -1,3 +1,2 @@
-# FruitNinja-with-Kinect
-2017.11 - 2018.01：“Kinect版水果忍者”项目  
-该项目基于Unity3D游戏引擎开发，结合了微软最新发布的Kinect 2.0体感设备，使用微软提供的Kinect SDK通过手势识别以及人体动作捕捉技术实现了隔空切水果的效果。
+2017.11 - 2018.01: "Kinect Edition Fruit Ninja" project
+The project is developed based on the Unity3D game engine, combined with Microsoft's newly released Kinect 2.0 somatosensory devCancel changesice, and uses the Kinect SDK provided by Microsoft to achieve the effect of cutting fruit from the air through gesture recognition and human motion capture technology.
